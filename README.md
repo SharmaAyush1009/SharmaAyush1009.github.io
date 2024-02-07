@@ -7,6 +7,7 @@ Hi, Let me tell you something about me, I used to live currently in **IIT Goa** 
 
 # Education
 |   Academic Year  |  Standard  |  School Name  |
+
 |  :------------------:  |  :----------:  |  :----------: |
 |  2020-21  |  10th  | Shree Vaishnav Academy |
 |     2022-23     | 12th  |  Shree Vaishnav Academy|
