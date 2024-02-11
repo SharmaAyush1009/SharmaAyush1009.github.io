@@ -6,7 +6,7 @@
 Hi, Let me tell you something about me, I used to live currently in **IIT Goa** Hostel but I had done my schooling from Madhya Pradesh. I am a **Philomath** and a **Sports Enthusiast**.
 
 # Education
-|   Academic Year   |   Standard   |       School Name      |
+|   Academic Year   |   Standard   |       School Name11      |
 
 |   :-----------:   |   :------:   |       :---------:      |
 |       2020-21     |      10th    | Shree Vaishnav Academy |
