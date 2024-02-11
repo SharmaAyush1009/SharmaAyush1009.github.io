@@ -1,5 +1,5 @@
 
-![Image]("C:\Users\1009a\OneDrive\Desktop\Scholarship\HTML.jpg" "Creator Image")
+![Image](https://i.pinimg.com/originals/36/8b/ef/368bef0098e438c8be080aac734d2f24.jpg "Creator Image")
 # About Me
 
 ## Ayush Sharma
